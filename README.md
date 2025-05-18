@@ -48,3 +48,5 @@ This project centers on building a user-friendly UI for text generation using pr
 ---
 
 ## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/78c53dc0-178d-41a5-81aa-fcacb45004f1)
